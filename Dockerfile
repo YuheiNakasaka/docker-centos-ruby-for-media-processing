@@ -1,4 +1,4 @@
-FROM drecom/centos-ruby:latest
+FROM drecom/centos-ruby:2.1.10
 
 # gifsicle
 RUN yum -y install gifsicle --enablerepo=epel
