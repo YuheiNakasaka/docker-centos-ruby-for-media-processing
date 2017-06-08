@@ -1,6 +1,6 @@
 # docker-centos-ruby-for-media-processing
 
-In addition to [drecom/docker-centos-ruby](https://github.com/drecom/docker-centos-ruby), ffmpeg, gifsicle and youtube-dl is added.
+In addition to [drecom/docker-centos-ruby](https://github.com/drecom/docker-centos-ruby), ffmpeg, gifsicle and youtube-dl are added.
 
 - [Dockerhub](https://hub.docker.com/r/razoku/centos-ruby-for-media-processing/)
 
